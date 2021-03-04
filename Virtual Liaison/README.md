@@ -10,7 +10,7 @@ https://virtualmeetup.netlify.app/
 
 # YOUTUBE LINK  
 
-https://www.youtube.com/watch?v=R1d0gv2CVfI  
+https://youtu.be/h1qeGYZNq8A
 
 
 # 🔨Languages and Tools🔨
